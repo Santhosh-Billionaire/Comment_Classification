@@ -131,15 +131,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 Santhosh – [GitHub Profile](https://github.com/Santhosh-Billionaire)
 
----
-
-```
-
----
-
-### 📌 Notes:
-- Rename your image to `screenshot.png` and place it in the root folder so it shows up in GitHub's README preview.
-- You can add a badge header section too (for License, Build passing, etc.), let me know if you want that added.
-
-Would you like me to generate a markdown preview image or update the actual repo for you (if you give access)?
-```
